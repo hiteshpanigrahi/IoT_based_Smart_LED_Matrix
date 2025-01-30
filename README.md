@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 This project is a **handmade 32x8 LED matrix clock**, powered by an **ESP8266** and controlled using **MAX7219 LED drivers**. The **LED matrix panel was manually built**, with each LED individually soldered and mounted inside a **custom-built MDF/sunboard enclosure**. The display shows **time, date, temperature, and custom scrolling text**, all fetched via WiFi from an **NTP server**.
-Images/The Design.jpg
+[Images/The Design.jpg](https://github.com/hiteshpanigrahi/IoT_based_Smart_LED_Matrix/blob/main/Images/The%20Design.jpg)
 ---
 
 ## 🔥 Features
@@ -46,8 +46,8 @@ This project uses firmware from **[ESP8266 WiFi Matrix Clock](https://github.com
 ---
 
 ## 📸 Project Image
-![Final Build Front](Images/Final Product.jpg)  
-
+[![Final Build Front](Images/Final Product.jpg)  
+](https://github.com/hiteshpanigrahi/IoT_based_Smart_LED_Matrix/blob/main/Images/Final%20Product.jpg)
 
 ---
 
